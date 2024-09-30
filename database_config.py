@@ -1,6 +1,6 @@
 db_config = {
     'user': 'root',
-    'password': 'DVNG@dvng@181204',
+    'password': 'Enter_Your_Root_Password',
     'host': 'localhost',
-    'database': 'dbms_experiment_7'
+    'database': 'loan_management_system'
 }
