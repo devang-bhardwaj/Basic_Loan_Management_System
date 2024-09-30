@@ -19,5 +19,5 @@ This **Loan Approval and Repayment System** is designed to manage loan applicati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/devang-bhardwaj/Basic_Loan_Management_System.git
    ```
